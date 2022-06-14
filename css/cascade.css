@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.cosas {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    
+}
+
+h1 {
+    align-self: center;
+}
+
+.formulario {
+    background-color: rgb(212, 212, 230);
+    padding: 20px;
+    border-radius: 7%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
